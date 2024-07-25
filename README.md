@@ -14,10 +14,6 @@ This repository contains the code and resources for predicting changes in implie
 ## Table of Contents
 - [Overview](#overview)
 - [Options and Implied Volatility](#options-and-implied-volatility)
-- [Data Preparation](#data-preparation)
-- [Model Building and Training](#model-building-and-training)
-- [Model Evaluation](#model-evaluation)
-- [Visualization](#visualization)
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
