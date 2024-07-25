@@ -58,6 +58,8 @@ Model Structure
 
 ## Results
 - **Mean Squared Error**: The MSE metric is used to evaluate the model's performance on the test set.
+- ![image](https://github.com/user-attachments/assets/a6a23534-d21d-4670-a726-597bdf409c64)
+
 - **Model Architecture and Network Diagram**: Visualizations provide insights into the structure and connections of the deep learning model.
 
 ## Conclusion
